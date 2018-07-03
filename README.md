@@ -53,6 +53,7 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Frameworks](#frameworks)
 - [Open Source Apps](#open-source-apps)
 - [Utilities](#utilities)
+- [Paradigms](#paradigms)
 
 ## Articles
 
@@ -87,6 +88,18 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Flutter Institute](https://flutter.institute/) - Very original content and tutorials by [Brian Armstrong](https://twitter.com/flutterinst).
 - [Flutter Rocks](https://flutter.rocks/) - Blog about the joys of Flutter by [Iiro Krankka](https://twitter.com/koorankka).
 - [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515).
+
+### Informational
+
+- [Why Flutter doesn’t use OEM widgets](https://medium.com/flutter-io/why-flutter-doesnt-use-oem-widgets-94746e812510)
+- [Why native app developers should take a serious look at Flutter](https://hackernoon.com/why-native-app-developers-should-take-a-serious-look-at-flutter-e97361a1c073)
+- [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
+
+### Comparisons
+
+- [Xamarin vs. Newcomer Flutter: What Developers Say](https://visualstudiomagazine.com/articles/2018/03/01/flutter-xamarin.aspx) - Article
+- [React Native, Flutter, Xamarin: a comparison](https://blog.novoda.com/react-native-flutter-xamarin-a-comparison/) - Article
+- [React Native vs Flutter - Which to Learn?](https://www.youtube.com/watch?v=tSyXb0sHBoE) - Video
 
 ## Videos
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) [64🎬] - Very rich content by [Tensor Programming](http://tensor-programming.com/).
@@ -320,3 +333,12 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 ## License
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
+## Paradigms
+
+### State management
+
+- [BLOC](https://www.youtube.com/watch?v=ALcbTxz3bUw) - Video
+- [BLOC](https://github.com/tenhobi/flashcards/issues/12) - Github issue
+- [Flutter / AngularDart – Code sharing, better together (DartConf 2018)](https://www.youtube.com/watch?v=PLHln7wHgPE) - Video
+- [Build reactive mobile apps in Flutter — companion article](https://medium.com/flutter-io/build-reactive-mobile-apps-in-flutter-companion-article-13950959e381) - Article
